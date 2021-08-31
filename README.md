@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @goverdhan07
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently playing around with different technologies
 - 📫 How to reach me? @thegoverdhan on twitter
 
 <!---
