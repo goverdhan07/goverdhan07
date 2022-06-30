@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @goverdhan07
-- 🌱 I’m currently playing around with different technologies
-- 📫 How to reach me? @thegoverdhan on twitter
+brb
 
 <!---
 goverdhan07/goverdhan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
